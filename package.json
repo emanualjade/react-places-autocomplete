@@ -1,6 +1,6 @@
 {
   "name": "ej-react-places-autocomplete",
-  "version": "7.2.2",
+  "version": "7.2.3",
   "description": "A React component for Google Maps Places Autocomplete",
   "main": "dist/index.js",
   "scripts": {
